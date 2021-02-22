@@ -11,7 +11,7 @@ const App = () => {
     <div className="App">
       <BrowserRouter>
         <Switch>
-          <Route exact path="/" component={UserForm}></Route>
+          <Route exact path="/lithium" component={UserForm}></Route>
           <Route exact path="/airtable" component={AirtableTest}></Route>
           <Route exact path="/graph" component={GraphTest}></Route>
           <Route exact path="/simulator" component={SimulatorTest}></Route>
