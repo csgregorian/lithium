@@ -53,5 +53,5 @@
     "eslint-plugin-flowtype": "^5.2.0",
     "flow-bin": "^0.143.1"
   },
-  "homepage": "https://csgregorian.github.io/lithium"
+  "homepage": "http://csgregorian.com/lithium"
 }
