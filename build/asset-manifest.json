@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lithium/static/css/main.d9355e0c.chunk.css",
-    "main.js": "/lithium/static/js/main.38e5074d.chunk.js",
-    "main.js.map": "/lithium/static/js/main.38e5074d.chunk.js.map",
+    "main.js": "/lithium/static/js/main.a1a4cbbb.chunk.js",
+    "main.js.map": "/lithium/static/js/main.a1a4cbbb.chunk.js.map",
     "runtime-main.js": "/lithium/static/js/runtime-main.9766e716.js",
     "runtime-main.js.map": "/lithium/static/js/runtime-main.9766e716.js.map",
     "static/css/2.a7b53900.chunk.css": "/lithium/static/css/2.a7b53900.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.a7b53900.chunk.css",
     "static/js/2.2cc45aca.chunk.js",
     "static/css/main.d9355e0c.chunk.css",
-    "static/js/main.38e5074d.chunk.js"
+    "static/js/main.a1a4cbbb.chunk.js"
   ]
 }
